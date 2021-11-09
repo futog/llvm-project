@@ -123,6 +123,7 @@ Clang-Tidy Checks
    `cert-flp30-c <cert-flp30-c.html>`_,
    `cert-flp37-c <cert-flp37-c.html>`_,
    `cert-mem57-cpp <cert-mem57-cpp.html>`_,
+   `cert-msc24-c <cert-msc24-c.html>`_,
    `cert-msc50-cpp <cert-msc50-cpp.html>`_,
    `cert-msc51-cpp <cert-msc51-cpp.html>`_,
    `cert-oop57-cpp <cert-oop57-cpp.html>`_,
